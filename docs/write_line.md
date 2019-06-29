@@ -4,7 +4,7 @@
 * Formats
   ```c#
   int number = 1;
-  sting dummyString = "Dummy String"
+  string dummyString = "Dummy String";
 
   Console.WriteLine("String");
   Console.WriteLine(number);
